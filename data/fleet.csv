@@ -1,0 +1,26 @@
+train_id,fitness_mechanical,fitness_electrical,fitness_signalling,critical_job_open,minor_job_open,sponsor,sponsor_required_hours,sponsor_completed_hours,total_km,last_7d_km,cleaning_required,cleaning_done,parking_row,parking_position,blockers_ahead,energy_ready_pct,availability_pct,maintenance_health_pct
+KMRL-01,False,True,True,False,False,,0,0,355929,278,False,False,A,4,1,82,93,38
+KMRL-02,True,True,True,False,False,Brand C,0,0,73407,1654,False,True,B,5,1,63,76,48
+KMRL-03,True,True,True,False,True,,0,0,310870,1198,True,True,A,9,2,90,94,81
+KMRL-04,True,False,True,False,True,Brand C,0,0,192049,306,False,True,B,3,2,72,68,69
+KMRL-05,True,True,True,False,False,,0,0,405544,1509,False,True,A,4,0,70,80,69
+KMRL-06,True,True,True,False,False,,0,0,277425,1416,False,False,A,12,2,97,92,89
+KMRL-07,True,True,True,False,False,Brand C,120,110,127487,413,False,True,B,10,0,74,79,94
+KMRL-08,True,True,False,False,False,Brand C,80,68,209893,1674,False,False,B,3,3,50,71,99
+KMRL-09,True,True,True,False,False,,0,0,174286,413,False,False,C,1,2,81,56,49
+KMRL-10,True,True,True,True,False,Brand A,80,8,349291,1668,True,True,C,3,2,83,93,89
+KMRL-11,True,True,True,False,False,,0,0,410723,864,False,True,A,4,1,54,76,37
+KMRL-12,True,True,False,False,False,Brand C,160,8,243239,245,False,False,B,4,1,96,91,95
+KMRL-13,True,True,True,True,False,,0,0,292077,941,False,True,C,11,0,53,80,78
+KMRL-14,True,True,True,False,False,,0,0,200970,254,False,True,C,2,0,91,89,36
+KMRL-15,True,True,True,False,False,,0,0,280260,220,True,False,B,5,3,68,82,97
+KMRL-16,True,True,False,False,True,,0,0,234419,217,True,True,C,3,0,82,60,58
+KMRL-17,True,True,True,False,False,,0,0,199087,1285,False,True,B,11,2,66,68,75
+KMRL-18,True,True,True,False,False,,0,0,108033,119,False,True,A,2,1,82,71,51
+KMRL-19,True,True,True,False,False,Brand A,0,0,390695,1752,False,False,C,5,0,58,71,49
+KMRL-20,True,True,True,False,False,,0,0,402523,640,False,False,A,2,3,67,57,35
+KMRL-21,True,True,True,False,False,Brand A,0,0,75069,329,True,True,A,9,0,73,92,53
+KMRL-22,False,True,True,False,True,Brand B,0,0,257595,530,False,True,B,9,3,89,64,65
+KMRL-23,True,True,True,True,False,,0,0,244160,1702,False,True,C,4,2,60,99,48
+KMRL-24,True,True,True,False,False,Brand B,0,0,189325,556,True,False,B,5,0,99,72,79
+KMRL-25,True,True,True,True,False,Brand C,120,33,163620,1289,False,False,A,10,3,72,75,90
